@@ -3,7 +3,7 @@ export const projects = [
     name: 'starbucks',
     overview:
       'This project is the clone code of Starbucks Korea. Javascript and HTML are used to create the page.',
-    link: 'https://github.com',
+    link: 'https://starbucks-snowy.vercel.app/',
     images: [
       '/images/starbucks/1.png',
       '/images/starbucks/2.png',
@@ -17,7 +17,7 @@ export const projects = [
     name: 'overwatch',
     overview:
       'This project is the clone code of Overwatch. Javascript and HTML are used to create the page.',
-    link: 'https://github.com',
+    link: 'https://overwatch-five.vercel.app/',
     images: [
       '/images/overwatch/1.png',
       '/images/overwatch/2.png',
