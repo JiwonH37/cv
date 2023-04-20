@@ -24,11 +24,11 @@ const AboutSection = () => {
               target="_blank"
               rel="noreferrer noopener"
             >
-              https://github.com/
+              https://github.com/JiwonH37
             </a>
           </StData>
           <StData>jiwonhong37@gmail.com</StData>
-          <StData>PHONE</StData>
+          <StData>(626)997-7302</StData>
           <StData>2522 Grier School Rd, PA</StData>
         </StInformationDatas>
       </StInformationBox>
