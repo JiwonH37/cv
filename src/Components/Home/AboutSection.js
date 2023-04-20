@@ -20,7 +20,7 @@ const AboutSection = () => {
         <StInformationDatas>
           <StData>
             <a
-              href=""
+              href="https://github.com/JiwonH37"
               target="_blank"
               rel="noreferrer noopener"
             >
